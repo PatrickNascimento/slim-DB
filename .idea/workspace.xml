@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49f3b0d5-4c5f-4710-9a6f-f1bfa5c342b6" name="Default Changelist" comment="" />
+    <list default="true" id="49f3b0d5-4c5f-4710-9a6f-f1bfa5c342b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/question.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -44,7 +52,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../anuncios-api" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +64,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606740204695</updated>
-      <workItem from="1606740209671" duration="8205000" />
+      <workItem from="1606740209671" duration="12632000" />
+      <workItem from="1606842566221" duration="484000" />
+      <workItem from="1606843359650" duration="2768000" />
     </task>
     <servers />
   </component>
@@ -63,6 +74,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="384" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606755358297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606755358297" />
+    <state x="649" y="327" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606845443846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="327" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1606845443846" />
+    <state x="687" y="222" key="FileChooserDialogImpl" timestamp="1606758599130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="222" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606758599130" />
     <state x="695" y="189" key="NewPhpClassDialog" timestamp="1606747727810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

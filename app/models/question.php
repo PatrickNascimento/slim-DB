@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Question extends Model {
     use SoftDeletes;
-    protected $fillable = ['questions', 'user_id'];
+    protected $fillable = ['question', 'user_id'];
     protected $table = 'questions';
     protected $dates = ['deleted_at'];
 
@@ -17,13 +17,10 @@ class Question extends Model {
         return $this->hasMany('\Models\Answer');
     }
 
-
     public function user()
     {
         return $this->belongsTo(‘\Models\User’);
     }
 }
-
-
 
 ?>
